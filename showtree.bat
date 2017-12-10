@@ -1,1 +1,1 @@
-git log --online --graph --all
+git log --oneline --graph --all
